@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dmukalenge13
-- 👀 I’m currently pursuing my BBQ in information Tech and concetration (cybersecurity)
+- 👀 I’m currently pursuing my BBA
+- in information Tech and concetration (cybersecurity)
 - 🌱 I graduated in Bootcamp Cybersecurity at Michigan State University 
 - 💞️ I’m looking to collaborate on Cybersecurity 
 - 📫 How to reach me is by my email 
